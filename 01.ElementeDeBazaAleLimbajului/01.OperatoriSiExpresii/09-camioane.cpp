@@ -5,19 +5,11 @@ using namespace std;
 
 int main()
 {
-    int caini, pisici, gaini;
+    int t1, t2, n, m, z;
+    cin >> t1 >> t2 >> n >> m >> z;
 
-    cin >> caini;
-    pisici = 2 * caini;
-    gaini = 2 * pisici;
-
-    int totalAnimale = caini + pisici + gaini;
-    cout << totalAnimale;
+    int total = (n * t1 + m * t2) * z;
+    cout << total;
 
     return 0;
 }
-
-// analiza matematica a problemei ne conduce la formula
-//     totalAnimale = 7 * caini
-// formula cu care am obtine un cod mult mai compact
-// dar nu la fel de usor de urmarit
