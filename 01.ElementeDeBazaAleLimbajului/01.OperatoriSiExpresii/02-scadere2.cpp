@@ -11,7 +11,7 @@ int main()
 
     int d = a - b;
 
-    cout << d;
+    cout << d << endl;
 
     return 0;
 }

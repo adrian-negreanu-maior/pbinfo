@@ -15,7 +15,7 @@ int main()
     int s = a + b;
 
     // apoi afisam rezultatul calculat
-    cout << s;
+    cout << s << endl;
 
     // absenta acestei instructiuni determina un mesaj de avertizare
     // pe unele compilatoare. O functie de tip int (cum este cazul functiei main)
