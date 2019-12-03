@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df46fc6b-e3be-4b69-80b7-f96dc703ac28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.ElementeDeBazaAleLimbajului/01.OperatoriSiExpresii/filme/cod_1258_scadere2.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1UTb8Vogl76LL2BfOVZOXwI4auX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df46fc6b-e3be-4b69-80b7-f96dc703ac28" name="Default Changelist" comment="" />
+      <created>1575383373253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575383373253</updated>
+      <workItem from="1575383375404" duration="85000" />
+      <workItem from="1575383468514" duration="16000" />
+      <workItem from="1575383491486" duration="53000" />
+      <workItem from="1575383585723" duration="550000" />
+      <workItem from="1575384145980" duration="321000" />
+      <workItem from="1575384474846" duration="3024000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit 3 dec 2019">
+      <created>1575385521525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575385521525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 3 dec 2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3 dec 2019" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="1" key="#Notifications" timestamp="1575384759539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="1" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575384759539" />
+    <state x="640" y="227" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575383429637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="227" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575383429637" />
+    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1575385520614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575385520614" />
+    <state x="-1231" y="140" key="FileChooserDialogImpl" timestamp="1575384683537">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="140" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575384683537" />
+    <state x="-1779" y="0" width="1522" height="716" key="SettingsEditor" timestamp="1575385003949">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1779" y="0" width="1522" height="716" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575385003949" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575384474963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575384474963" />
+    <state x="-1151" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575385699909">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1575385699909" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575385531303" />
+    <state x="715" y="240" key="git4idea.merge.GitPullDialog" timestamp="1575385439453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="240" key="git4idea.merge.GitPullDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575385439453" />
+    <state x="520" y="259" width="1204" height="521" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1575384587910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="259" width="1204" height="521" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575384587910" />
+  </component>
+</project>
