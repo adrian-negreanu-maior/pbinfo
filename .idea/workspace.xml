@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df46fc6b-e3be-4b69-80b7-f96dc703ac28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.ElementeDeBazaAleLimbajului/01.OperatoriSiExpresii/filme/cod_1258_scadere2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.ElementeDeBazaAleLimbajului/01.OperatoriSiExpresii/filme/cod_939_sum00.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <workItem from="1575383491486" duration="53000" />
       <workItem from="1575383585723" duration="550000" />
       <workItem from="1575384145980" duration="321000" />
-      <workItem from="1575384474846" duration="3024000" />
+      <workItem from="1575384474846" duration="4218000" />
     </task>
     <task id="LOCAL-00001" summary="commit 3 dec 2019">
       <created>1575385521525</created>
@@ -73,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575385521525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="filmul scadere2 3 dec 2019">
+      <created>1575407867488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575407867488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="01 si 02 modificari 3 dec 2019">
+      <created>1575408417242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575408417242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +95,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 3 dec 2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 3 dec 2019" />
+    <MESSAGE value="filmul scadere2 3 dec 2019" />
+    <MESSAGE value="01 si 02 modificari 3 dec 2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="01 si 02 modificari 3 dec 2019" />
   </component>
   <component name="WindowStateProjectService">
     <state x="352" y="1" key="#Notifications" timestamp="1575384759539">
@@ -92,10 +108,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="227" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575383429637" />
-    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1575385520614">
+    <state x="489" y="0" key="CommitChangelistDialog2" timestamp="1575408416305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575385520614" />
+    <state x="489" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575408416305" />
     <state x="-1231" y="140" key="FileChooserDialogImpl" timestamp="1575384683537">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -104,6 +120,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1779" y="0" width="1522" height="716" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575385003949" />
+    <state x="352" y="92" key="Vcs.Push.Dialog.v2" timestamp="1575408419974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="92" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1575408419974" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575384474963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
