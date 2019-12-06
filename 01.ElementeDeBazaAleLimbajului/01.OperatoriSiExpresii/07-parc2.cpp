@@ -12,6 +12,6 @@ int main()
 
     int response = n * n * n * n * n;
 
-    cout << response;
+    cout << response << endl;
     return 0;
 }

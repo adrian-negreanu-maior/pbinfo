@@ -10,6 +10,6 @@ int main()
 
     // ca sa ajungem de la x la triplul lui y mai avem nevoie de 3x-y
     int toBeAdded = 3 * y - x;
-    cout << toBeAdded;
+    cout << toBeAdded << endl;
     return 0;
 }

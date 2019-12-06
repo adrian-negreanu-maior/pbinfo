@@ -17,8 +17,7 @@ int main()
     // inca o cutie
     int extraSuma = pretCutie - sumaRamasa;
 
-    cout << cutiiBomboane << " " << extraSuma;
-
+    cout << cutiiBomboane << " " << extraSuma << endl;
 
     return 0;
 }

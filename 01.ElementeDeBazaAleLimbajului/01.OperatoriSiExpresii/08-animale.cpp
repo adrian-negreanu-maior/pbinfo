@@ -12,7 +12,7 @@ int main()
     gaini = 2 * pisici;
 
     int totalAnimale = caini + pisici + gaini;
-    cout << totalAnimale;
+    cout << totalAnimale << endl;
 
     return 0;
 }

@@ -17,7 +17,7 @@ int main()
     int totalGloburi = globuriAlbe + globuriRosi + globuriVerzi;
 
     // si apoi afisam raspunsul
-    cout << totalGloburi;
+    cout << totalGloburi << endl;
 
     return 0;
 }

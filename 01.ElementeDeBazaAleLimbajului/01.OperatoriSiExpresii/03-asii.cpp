@@ -16,7 +16,7 @@ int main()
 
     // afisam valorile stocate in mai multe variabile
     // in ordinea ceruta, separate prin spatiu
-    cout << suma << " " << diferenta << " " << produs << " " << cat;
+    cout << suma << " " << diferenta << " " << produs << " " << cat << endl;
 
     return 0;
 }

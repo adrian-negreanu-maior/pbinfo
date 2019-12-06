@@ -17,6 +17,6 @@ int main()
     // si cate pagini pe zi se citesc (cate 3 fetele si cate 2 baietii)
     int totalPaginiCitite = numarZile * (fete * PPZ_FATA + baieti * PPZ_BAIAT);
 
-    cout << totalPaginiCitite;
+    cout << totalPaginiCitite << endl;
     return 0;
 }
