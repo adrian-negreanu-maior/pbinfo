@@ -17,7 +17,7 @@ int main()
     // datele de intrare
     int ultimaCifraASumei = (a % 10 + b % 10) % 10;
 
-    cout << ultimaCifraASumei;
+    cout << ultimaCifraASumei << endl;
 
     return 0;
 }
