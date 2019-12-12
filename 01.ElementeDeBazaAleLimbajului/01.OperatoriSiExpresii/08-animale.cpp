@@ -18,6 +18,6 @@ int main()
 }
 
 // analiza matematica a problemei ne conduce la formula
-//     totalAnimale = 7 * caini
+// int totalAnimale = 7 * caini;
 // formula cu care am obtine un cod mult mai compact
 // dar nu la fel de usor de urmarit

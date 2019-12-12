@@ -6,15 +6,15 @@ using namespace std;
 int main()
 {
     // utilizam denumiri sugestive pentru variabile
-    int globuriAlbe, globuriRosi, globuriVerzi;
+    int globuriAlbe, globuriRosii, globuriVerzi;
     // se da numarul de globuri albe
     cin >> globuriAlbe;
     // si regulile dupa care se calculeaza numarul de globuri rosii si verzi
-    globuriRosi = 2 * globuriAlbe;
-    globuriVerzi = globuriRosi - 3;
+    globuriRosii = 2 * globuriAlbe;
+    globuriVerzi = globuriRosii - 3;
 
     // calculam totalul
-    int totalGloburi = globuriAlbe + globuriRosi + globuriVerzi;
+    int totalGloburi = globuriAlbe + globuriRosii + globuriVerzi;
 
     // si apoi afisam raspunsul
     cout << totalGloburi << endl;
@@ -22,5 +22,5 @@ int main()
     return 0;
 }
 
-// prin analiza matematica a enuntului, puteam folosi si o formula
-//      int totalGloburi = 5 * globuriAlbe - 3
+    // prin analiza matematica a enuntului, puteam folosi si o formula
+    int totalGloburi = 5 * globuriAlbe - 3;
